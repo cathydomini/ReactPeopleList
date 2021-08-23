@@ -1,0 +1,11 @@
+.detail >div{
+   margin-top:5px;
+}
+.detail button{
+  margin-top:20px;
+}
+
+
+a:hover{
+  cursor:pointer
+}

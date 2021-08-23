@@ -1,0 +1,28 @@
+
+.pagination {
+    display: inline-block;
+    padding:0;
+    margin:0;
+}
+
+
+.pagination  {
+  list-style:none;
+  display:flex;   
+}
+
+.pagination li{
+    padding:10px;
+    border:1px solid #0052C2;;
+    cursor: pointer
+}
+
+.pagination li.active{
+    color:red;
+}
+
+.pagination li button{
+    background-color:transparent;
+    border:none;
+    cursor: pointer;
+}
